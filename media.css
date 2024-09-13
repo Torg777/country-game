@@ -1,0 +1,23 @@
+@media screen and (max-width: 600px) {
+    .level-block {
+        width: 95%;
+    }
+
+  }
+
+  @media screen and (max-width: 900px) {
+
+    body {
+      height: calc(100% + 10%);
+    }
+
+    .level-block {
+      margin: 10% 0 0 0;
+    }
+
+    .game-block{
+      width: 90%;
+      margin: 10% 0 0 0;
+    }
+
+  }
